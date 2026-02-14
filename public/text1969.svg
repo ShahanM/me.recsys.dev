@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="37.044926mm"
+   height="52.427765mm"
+   viewBox="0 0 37.044926 52.427765"
+   version="1.1"
+   id="svg1907"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1909"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs1904" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 2"
+     transform="translate(-63.743337,-30.170049)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.4174px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code,  weight=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#10b9A1;fill-opacity:1;stroke:none;stroke-width:0.210507"
+       x="57.833786"
+       y="65.505997"
+       id="text1929-4"
+       transform="scale(1.2252248,0.81617675)"><tspan
+         sodipodi:role="line"
+         id="tspan1927-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.4174px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code,  weight=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.210507"
+         x="57.833786"
+         y="65.505997">M</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1965"
+     inkscape:label="Layer 3"
+     transform="translate(-63.743337,-30.170049)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code,  weight=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#10b9A1;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="59.105812"
+       y="82.597816"
+       id="text1963"
+       inkscape:export-filename="text1963.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code,  weight=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="59.105812"
+         y="82.597816">I</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-63.743337,-30.170049)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code,  weight=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#10b9A1;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-74.510513"
+       y="100.18908"
+       id="text1929"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1927"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code,  weight=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-74.510513"
+         y="100.18908">S</tspan></text>
+  </g>
+</svg>
