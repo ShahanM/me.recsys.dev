@@ -1,0 +1,15 @@
+[author]
+id = "YOUR_SEMANTIC_SCHOLAR_AUTHOR_ID"
+first_name = "Firstname"
+last_name = "Lastname"
+
+[zotero]
+db_path = "/path/to/zotero.sqlite"
+root_collection = "My Research Publications"
+citations_collection = "Citations"
+
+[paths]
+venue_map = "src/data/venue_map.json"
+output_impact_graph = "src/data/impact_graph.json"
+output_pubs = "src/data/publications.json"
+output_diet = "src/data/citation_diet.json"
